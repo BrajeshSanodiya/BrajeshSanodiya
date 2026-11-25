@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Brajesh Sanodiya - Mobile app development lead, App Project Management <br><br>🔭 I’m currently working on IOT & IoMT based Mobile application and managing tools. <br>👯 I’m looking to collaborate on open-source, AI agents & related projects<br>🤝 I’m looking for help with building innovative AI-powered tools<br>🌱 I’m currently learning GenAI Agents & Morden data Architectures <br>💬 Ask me about Android, iOS, Flutter, Kotlin, IONIC, ReactJS & Angular<br>⚡ Fun fact
+Hi I am Brajesh Sanodiya - Mobile app development lead, App Project Management <br><br>🔭 I’m currently working on IOT & IoMT based Mobile application and managing tools. <br>👯 I’m looking to collaborate on open-source, AI agents & related projects<br>🤝 I’m looking for help with building innovative AI-powered tools<br>🌱 I’m currently learning GenAI Agents & Morden data Architectures <br>💬 Ask me about Android, iOS, Flutter, Kotlin, IONIC, ReactJS & Angular
 
 
 ## 🌐 Socials:
